@@ -48,5 +48,4 @@ Improved the model’s accuracy and performance.
 📸 Demo
 Below is an example prediction of the word "CALL" formed by recognizing individual hand signs:
 
-Screenshot 2025-04-12 114618 Screenshot 2025-04-12 114637 Screenshot 2025-04-12 114821 Screenshot 2025-04-12 114833
 
